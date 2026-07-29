@@ -2,67 +2,110 @@
 
 # 👋 Hallo, ich bin Girandoux Fandio
 
-### Data Analyst | Data Scientist | Data Engineer
+## Data Engineer | Business Intelligence Analyst | Data Analyst
 
-🎓 Dipl.-Ing. (FH) Maschinenbau mit über 15 Jahren Erfahrung in der Analyse komplexer technischer Daten und datengetriebenen Entscheidungsprozessen.
+🎓 Dipl.-Ing. (FH) Maschinenbau mit über 15 Jahren Berufserfahrung in der Analyse komplexer technischer Daten und datengetriebenen Entscheidungsprozessen.
 
-Ich spezialisiere mich auf **Data Analytics**, **Business Intelligence**, **Data Engineering** und **Machine Learning** mit Python, SQL, Power BI und Streamlit.
+Heute entwickle ich End-to-End-Datenlösungen – von der Datenmodellierung und ETL-Prozessen über relationale Datenbanken bis hin zu interaktiven Dashboards und datengetriebenen Anwendungen mit **Python, SQL, PostgreSQL, Power BI und Streamlit**.
 
 ---
 
 ## 🚀 Technologien & Tools
 
-### 📊 Data Science
+### 👨‍💻 Programmiersprachen
 
 - Python
-- Pandas
-- NumPy
-- Scikit-Learn
-- Machine Learning
-- Statistik & Explorative Datenanalyse (EDA)
-
-### ⚙️ Data Engineering
-
 - SQL
-- PostgreSQL
-- ETL-Pipelines
-- Apache Spark
-- Airflow
-- Git & Docker
 
-### 📈 Business Intelligence
+### 🗄️ Datenbanken
+
+- PostgreSQL
+- SQLAlchemy
+
+### 📊 Data Analytics & Business Intelligence
 
 - Power BI
 - Tableau
-- Streamlit
-- KPI-Dashboards
-- Reporting & Data Storytelling
+- Pandas
+- NumPy
+- Scikit-Learn
+- DAX
+
+### ⚙️ Data Engineering
+
+- ETL-Pipelines
+- Apache Spark
+- Docker
+- Git
 
 ---
 
 ## 📂 Portfolio-Projekte
 
-### 🏅 Olympic Analytics Platform
+### 🛒 ERP Superette
 
-End-to-End Data Analytics & Machine Learning Projekt zur Analyse historischer Olympischer Daten.
+End-to-End ERP-System zur Digitalisierung der Geschäftsprozesse einer kleinen Superette.
 
-**Technologien:**
+**Technologien**
 
-`Python` • `SQL` • `PostgreSQL` • `Power BI` • `Streamlit` • `Machine Learning`
+`Python` • `PostgreSQL` • `SQLAlchemy` • `Power BI` • `Streamlit`
 
-#### Highlights
+✔ PostgreSQL-Datenbank
 
-- Explorative Datenanalyse (EDA)
-- KPI- und Performance-Dashboards
-- Historische Olympische Analysen
-- Machine-Learning-Modell zur Medaillen-Prognose
-- Interaktive Streamlit-Webanwendung
+✔ ETL-Prozess
 
-🌐 **Live Dashboard:**  
+✔ Power BI Dashboard
+
+✔ Streamlit ERP
+
+✔ KPI Reporting
+
+🔗 https://github.com/Girandoux/ERP-Superette
+
+---
+
+### 🏅 Olympic Analytics
+
+End-to-End Data Analytics- und Machine-Learning-Projekt zur Analyse historischer Olympischer Spiele.
+
+**Technologien**
+
+`Python` • `SQL` • `Power BI` • `Streamlit` • `Machine Learning`
+
+🌐 Live Demo
+
 https://olympic-analytic.streamlit.app
 
-📂 **Repository:**  
+🔗 Repository
+
 https://github.com/Girandoux/Olympic-Analytics
+
+---
+
+### 💊 Pharmaceutical Sales Dashboard
+
+Business-Intelligence-Dashboard zur Analyse von Verkaufsdaten, Produktperformance und KPIs.
+
+**Technologien**
+
+`Power BI` • `SQL` • `DAX`
+
+🔗 Repository
+
+https://github.com/Girandoux/Pharmaceutical-Sales-Dashboard
+
+---
+
+## 💼 Fachlicher Hintergrund
+
+- 15+ Jahre Engineering & Datenanalyse
+- Data Analytics & Business Intelligence
+- PostgreSQL & SQL
+- ETL- und Datenbankentwicklung
+- Dashboard-Entwicklung
+- KPI-Reporting
+- Machine Learning
+- Python-Automatisierung
 
 ---
 
@@ -72,46 +115,32 @@ https://github.com/Girandoux/Olympic-Analytics
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Girandoux&layout=compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Girandoux)
-
----
-
-## 💼 Fachlicher Hintergrund
-
-- 15+ Jahre Erfahrung in Engineering Data Analysis
-- Automotive Engineering & Simulation
-- Datengetriebene Entscheidungsunterstützung
-- KPI-Entwicklung & Reporting
-- Modellvalidierung & technische Datenanalyse
-- Business Intelligence & Dashboarding
-
----
-
-## 🎯 Aktuelle Schwerpunkte
-
-- Data Analytics
-- Business Intelligence
-- Machine Learning
-- Data Engineering
-- Streamlit Dashboards
-- SQL & PostgreSQL
-- Python Automatisierung
-
 ---
 
 ## 📫 Kontakt
 
-💼 **LinkedIn**  
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/girandoux-fandio
 
-📂 **GitHub**  
+📂 **GitHub**
+
 https://github.com/Girandoux
 
-📧 **E-Mail**  
+📧 **E-Mail**
+
 girandoux@yahoo.fr
 
 ---
 
-⭐ Offen für Positionen als:
+## ⭐ Karriere
 
-**Data Analyst • Business Intelligence Analyst • Data Scientist • Analytics Engineer • Data Engineer**
+Ich freue mich über spannende Möglichkeiten als
+
+- Data Engineer
+- Analytics Engineer
+- Data Analyst
+- Business Intelligence Analyst
+
+📍 Deutschland · Hybrid · Remote
+📍 Frankreich  · Hybrid · Remote
